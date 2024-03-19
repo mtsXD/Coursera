@@ -5,7 +5,7 @@
 #
 #### 03/2024 - [Google Cybersecurity](https://github.com/MateusBSS/Portfolio/tree/main/Google)
 
-  data   | trilha
+  data   | trilhas
 ------- | ------
 17/03/2024 | Foundations of Cybersecurity
 19/03/2024 | Play It Safe: Manage Security Risks
