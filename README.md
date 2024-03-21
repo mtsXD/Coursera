@@ -9,6 +9,7 @@
 :-------: | :------:
 17/03/2024 | Foundations of Cybersecurity
 19/03/2024 | Play It Safe: Manage Security Risks
+21/03/2024 | Connect and Protect Networks and Network Security
 <br>
     
 > [Auditoria de Segurança](https://github.com/MateusBSS/Portfolio/blob/main/Google/Modulo2%20-%20Mateus%20Breno%20Soares.pdf) - portifólio do Play It Safe: Manage Security Risks
